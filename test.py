@@ -1,1 +1,1 @@
-pri("hello from jenkins! V1")
+print("hello from jenkins! V1")
